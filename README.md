@@ -23,7 +23,7 @@
 - 🧠 DevOps tools: **Docker, Kubernetes, Terraform, GitHub Actions, Jenkins**  
 - ☁️ AWS services: EC2, S3, IAM, Lambda, VPC, RDS, EKS  
 - 🎯 Focused on building **production-grade, scalable infrastructures**  
-- 📫 Email: **ryakawarom@gmail.com**
+- 📫 Email: **ryakawaromkar@gmail.com**
 
 ---
 
