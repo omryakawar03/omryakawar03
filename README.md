@@ -1,13 +1,4 @@
 
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+%26+Infrastructure+Architect;I+Build+Scalable+Systems" />
-</h1>
-
----
-
-
 # 🌟 About Me
 - 🔥 Full Stack Developer + DevOps Engineer  
 - 🚀 Passionate about **Next.js, React, Node.js, NestJS**  
