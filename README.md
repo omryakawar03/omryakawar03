@@ -1,21 +1,12 @@
-<!-- CUSTOM BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00F7FF,100:0037FF&height=220&section=header&text=Omkar%20Ryakawar&fontSize=60&fontColor=FFFFFF&animation=fadeIn" />
-</p>
 
-<!-- TYPO ANIMATION -->
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+%26+Infrastructure+Architect;I+Build+Scalable+Systems" />
 </h1>
 
 ---
 
-## 👀 Visitor
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=omryakawar03&label=VISITORS&color=00F7FF&style=flat-square" />
-</p>
-
----
 
 # 🌟 About Me
 - 🔥 Full Stack Developer + DevOps Engineer  
