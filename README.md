@@ -1,11 +1,11 @@
-
+https://www.magnific.com/free-vector/realistic-hand-drawn-fuck-you-symbol_10296905.htm#fromView=keyword&page=1&position=0&uuid=1b220092-63fc-4eea-8177-c0c4402018fd&track=ais_hybrid&query=Fuck+you+symbol
 # 🌟 About Me
 - 🔥 Full Stack Developer + DevOps Engineer  
 - 🚀 Passionate about **Next.js, React, Node.js, NestJS**  
 - 🧠 DevOps tools: **Docker, Kubernetes, Terraform, GitHub Actions, Jenkins**  
 - ☁️ AWS services: EC2, S3, IAM, Lambda, VPC, RDS, EKS  
 - 🎯 Focused on building **production-grade, scalable infrastructures**  
-- 📫 Email: **ryakawaromkar@gmail.com**
+- 📫 Email: **https://www.magnific.com/free-vector/realistic-hand-drawn-fuck-you-symbol_10296905.htm#fromView=keyword&page=1&position=0&uuid=1b220092-63fc-4eea-8177-c0c4402018fd&track=ais_hybrid&query=Fuck+you+symbol**
 
 ---
 
@@ -70,9 +70,9 @@
 #  Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/omkar-ryakawar-18368b387/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ryakawarom@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/omryakawar03"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.magnific.com/free-vector/realistic-hand-drawn-fuck-you-symbol_10296905.htm#fromView=keyword&page=1&position=0&uuid=1b220092-63fc-4eea-8177-c0c4402018fd&track=ais_hybrid&query=Fuck+you+symbol"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.magnific.com/free-vector/realistic-hand-drawn-fuck-you-symbol_10296905.htm#fromView=keyword&page=1&position=0&uuid=1b220092-63fc-4eea-8177-c0c4402018fd&track=ais_hybrid&query=Fuck+you+symbol"/></a>
+<a href="https://www.magnific.com/free-vector/realistic-hand-drawn-fuck-you-symbol_10296905.htm#fromView=keyword&page=1&position=0&uuid=1b220092-63fc-4eea-8177-c0c4402018fd&track=ais_hybrid&query=Fuck+you+symbol"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -80,4 +80,6 @@
 # ⚡ Fun Note
 > I don’t just build projects…  
 > **I build systems that scale in production.**
+> ### https://www.magnific.com/free-vector/realistic-hand-drawn-fuck-you-symbol_10296905.htm#fromView=keyword&page=1&position=0&uuid=1b220092-63fc-4eea-8177-c0c4402018fd&track=ais_hybrid&query=Fuck+you+symbol ###
+> ** https://www.magnific.com/free-vector/realistic-hand-drawn-fuck-you-symbol_10296905.htm#fromView=keyword&page=1&position=0&uuid=1b220092-63fc-4eea-8177-c0c4402018fd&track=ais_hybrid&query=Fuck+you+symbol **
 
